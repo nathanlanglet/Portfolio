@@ -284,6 +284,7 @@ body
     .nom
         {
         text-align: center;
-        font-size: 1.9vh;
+        margin-bottom: 2vh;
+        padding-bottom: 2vh;
         }
     }
