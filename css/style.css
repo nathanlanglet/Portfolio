@@ -271,4 +271,9 @@ body
         {
         font-size: 4vh;  
         }
+        
+     .content  
+        {
+        padding-top: 1vh;
+        }
     }
