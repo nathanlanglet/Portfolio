@@ -1,0 +1,195 @@
+body
+    {
+    margin: 0;
+    }
+
+.container
+    {
+    display: flex;
+    justify-content: start;
+    }
+
+.nav
+    {
+    width: 13.5%;
+    min-height: 100vh;
+    background-color: black;
+    }
+
+.contenant
+    {
+    width: 86.5%;
+    min-height: 100vh;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+.portfolio
+    {
+    width: 100%;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 3vh;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+
+.profil
+    {
+    width: 90%;
+    height: 7vh;
+    margin: auto;
+    border-top: 0.2vh solid white;
+    border-bottom: 0.2vh solid white;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    }
+
+.contenantProfil
+    {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    }
+
+.nom
+    {
+    font-size: 2vh;
+    color: white;
+    margin-left: 1vh;
+    }
+
+.menu
+    {
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-top: 4vh;
+    }
+
+.lienMenu
+    {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    }
+
+.informationContainer
+    {
+    width: 25%;
+    height: 60vh;
+    border: 0.2vh solid white;
+    background-color: white;
+    border-radius: 5vh;
+    }
+
+.headerInformation
+    {
+    height: 20vh;
+    width: 100%;
+    background-color: red;
+    border-top-left-radius: 5vh;
+    border-top-right-radius: 5vh;
+    }
+
+.informationPhoto
+    {
+    width: 20vh; 
+    height: 20vh; 
+    border-radius: 50%;
+    margin: auto;
+    margin-top: -10vh; 
+    border:1vh solid white;
+    }
+
+.titre
+    {
+    color: lightblue;
+    font-size: 3vh;
+    text-align: center;
+    }
+
+.infoTitre
+    {
+    font-size: 2vh;
+    text-align: center;
+    }
+
+.header
+    {
+    width: 100;
+    height: 10vh;
+    border-bottom: 0.2vh solid white;
+    display: flex;
+    align-items: center;
+    margin-left: 1.5vh;
+    }
+
+.titre2
+    {
+    font-size: 7vh;  
+    font-weight: bold;
+    color: white;
+    }
+
+.contenant2
+    {
+    width: 86.5%;
+    min-height: 100vh;
+    background-color: darkgray;
+    }
+
+.content  
+    {
+    width: 90%;
+    min-height: 70.5vh;
+    margin-top: 5vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 5vh;
+    padding-top: 10vh;
+    }
+
+.row
+    {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    font-size: 2vh;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    height: 5vh;
+    }
+
+.colonne1
+    {
+    width: 35%;
+    margin-left: 0.5vh;
+    }
+
+.colonne2
+    {
+    width: 45%;
+    }
+
+.colonne3
+    {
+    width: 20%;
+    }
+
+.ligne1
+    {
+    background-color: #F3F2EE;
+    border-bottom: 0.2vh solid #CCC5B9;
+    border-top: 0.2vh solid #CCC5B9;
+    }
