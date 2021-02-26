@@ -294,9 +294,15 @@ body
         min-width: 90%;
         align-items: center;
         }
-        
-      .competence
+
+    .competence
         {
         display: block;
+        }
+
+    .imgCompetence
+        {
+        max-width: 15%;
+        min-width: 15%;
         }
     }
