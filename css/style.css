@@ -227,8 +227,8 @@ body
     .nav
         {
         width: 100%;
-        min-height: 10vh;
-        max-height: 10vh;
+        min-height: 7vh;
+        max-height: 7vh;
         position: fixed;
         bottom: 0px;
         display: flex;
@@ -249,5 +249,16 @@ body
     .profil
         {
         display: none;
+        }
+
+    .contenant
+        {
+        width: 100%;
+        min-height: 93vh;
+        }
+    
+    .informationContainer
+        {
+        width: 80%;
         }
     }
