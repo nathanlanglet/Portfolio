@@ -233,6 +233,8 @@ body
         bottom: 0px;
         display: flex;
         justify-content: start;
+        align-items: center;
+        padding-top: 1vh;
         }
 
     .portfolio
@@ -273,8 +275,8 @@ body
         {
         font-size: 4vh;  
         }
-        
-     .content  
+
+    .content  
         {
         padding-top: 1vh;
         }
