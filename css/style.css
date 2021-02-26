@@ -280,4 +280,11 @@ body
         {
         padding-top: 1vh;
         }
+
+    .nom
+        {
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        }
     }
