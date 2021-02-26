@@ -267,8 +267,8 @@ body
         {
         width: 100%;
         min-height: 93vh;
-        margin-bottom: 7h;
-        padding-bottom: 7vh;
+        margin-bottom: 9h;
+        padding-bottom: 9vh;
         }
 
     .titre2
@@ -286,5 +286,12 @@ body
         text-align: center;
         margin-bottom: 2vh;
         padding-bottom: 2vh;
+        }
+
+    .img
+        {
+        max-width: 90%;
+        min-width: 90%;
+        align-items: center;
         }
     }
