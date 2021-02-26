@@ -283,8 +283,7 @@ body
 
     .nom
         {
-        display: flex;
-        justify-content: start;
-        align-items: center;
+        text-align: center;
+        font-size: 1.9vh;
         }
     }
