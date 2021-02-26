@@ -233,7 +233,6 @@ body
         bottom: 0px;
         display: flex;
         justify-content: start;
-        align-items: center;
         }
 
     .portfolio
@@ -260,5 +259,16 @@ body
     .informationContainer
         {
         width: 80%;
+        }
+
+    .contenant2
+        {
+        width: 100%;
+        min-height: 93vh;
+        }
+
+    .titre2
+        {
+        font-size: 4vh;  
         }
     }
