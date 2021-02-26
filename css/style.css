@@ -168,7 +168,7 @@ body
     margin-left: auto;
     margin-right: auto;
     width: 85%;
-    height: 5vh;
+    min-height: 5vh;
     }
 
 .colonne1
